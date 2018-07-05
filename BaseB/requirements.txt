@@ -1,0 +1,2 @@
+cymysql==0.9.11
+SQLAlchemy==1.2.9
